@@ -1,7 +1,7 @@
 # -TV_FrameWork-
 基于6.0最新的API 支持TV的框架
 
-基于6.0最新的API 支持TV的框架
+基于6.0最新的API 加入MD设计，依赖最新support libs 的Android TV框架
 
  >**.主要包含**
 
