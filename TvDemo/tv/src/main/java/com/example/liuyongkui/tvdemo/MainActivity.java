@@ -31,26 +31,11 @@ public class MainActivity extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-       /* ViewGroup fg = (ViewGroup) getLayoutInflater().inflate(R.layout.activity_main, null);
 
-       view = new MyTestView(this);
-
-       fg.addView(new MyTestView(this));
-       this.addContentView(fg, null);*/
-
-       // setContentView(root);
       setContentView(R.layout.activity_main);
 
-      //  view = findViewById(R.id.mytestView);
     }
 
-    public void onResquuseLayout(){
 
-       view.invalidate();
-    }
-
-    public void onInvlidate(){
-      view.requestLayout();
-    }
 
 }
